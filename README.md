@@ -1,4 +1,3 @@
-# testrepo
+# About
 
-## EDITING THE FILE
-It's a markdown file in this repository
+This repo is to demonstrate basic machine learning projects that I have conducted.
